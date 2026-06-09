@@ -1,1 +1,2 @@
 Some modifications in Navbar is performed.
+new modifications.
