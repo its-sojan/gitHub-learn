@@ -1,0 +1,1 @@
+Some modifications in Navbar is performed.
